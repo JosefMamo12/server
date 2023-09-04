@@ -8,6 +8,7 @@ Before you begin, make sure you have the following prerequisites:
 
 1. **Node.js and npm:** Ensure you have Node.js and npm (Node Package Manager) installed on your system. You can download them from nodejs.org.
 2. **GitHub Account:** You'll need a GitHub account to access the repository and download the code.
+3. **MySql
 
 ## Step 1: Cloning the Repository
 1. Open your terminal and navigate to the directory where you want to clone the repository:
